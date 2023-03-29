@@ -8,7 +8,7 @@
 
 ```javascript
 const Miguel = {
-  interests: ['FrontEnd', 'BackEnd', 'Movile development' ],
+  interests: ['FrontEnd', 'BackEnd', 'Mobile development' ],
   tools: ['Angular', 'Java / Spring', '.Net', 'Docker', 'Jenkins'],
   hobbies: ['Sports', 'Videogames', 'Tech']
 }
